@@ -1,0 +1,3 @@
+Name: Nasib,  puan: 21, Date: 2022-12-30 12:27
+Name: hannibal lecter,  puan: 14, Date: 2022-12-30 12:32
+Name: ikaia,  puan: 5, Date: 2022-12-30 22:41
